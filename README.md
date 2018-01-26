@@ -1,6 +1,8 @@
 # Apache Storm 官方文档中文版
 ![](doc/en/images/logo.png)
 
+> 本开源书 forked from [Apache Storm 官方文档中文版](https://github.com/apachecn/storm-doc-zh)，作者为 [apachecn](https://github.com/apachecn)，欢迎大家 star 原作者的 [repo](https://github.com/apachecn/storm-doc-zh)，以便获得最新更新，谢谢！
+
 Apache Storm 是一个免费的，开源的，分布式的实时计算系统.
 
 官方文档: <http://storm.apache.org>  
